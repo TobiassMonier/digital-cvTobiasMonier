@@ -64,4 +64,4 @@ __♦ Proyectos:__
 
 **Redes Socioales**
 
-[LinkedIn](https://www.linkedin.com/in/tobiasmonier/)   
+[<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAOxJREFUSEvllQENwkAMRTcFIAEH4ABwAApAAk6wwBwMBYADJCABFEBf0pLLsQuw7pYQmlx6S67/X/v/cmWROcrM+EXvBEfpaOrsCoy5YcQd3J3gL7gpgpucrPX0QvLgS+InboqgEsC1gu4kr36O4BqNaNh1B2hwVtCJanDS75FkCNHoIguNxtEF3moA2EyLsB3WtSK0AZwuLTay2QbfLoLUtCA0t7kIGM9BFqNbajeQWqfsXQSMDgJiLwsNshE0adVpB39MgOXCHw3n4BKCPQ4ims59pIHWt05Jm3JL74MTCt//k9l6JqnC7I/+Az8TTBmoj2/8AAAAAElFTkSuQmCC"/>](https://www.linkedin.com/in/tobiasmonier/)   
