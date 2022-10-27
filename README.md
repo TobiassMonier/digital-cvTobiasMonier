@@ -29,7 +29,7 @@ Muchas gracias por pasarte a mi cv digital, Podes contactarte conmigo atraves de
 __🎓 Educacion Complementaria:__ Estos son algunos de los cursos que 
 fui adquiriendo.
 
->_• Java y Spring Boot:_
+>_• Java and Spring Boot:_
 
 Proximamente 🤓🛠📚.
 
