@@ -19,7 +19,7 @@
 
 __🤠 Sobre Mi:__
 
- ¡Hola mundo 🌍  soy Tobias  Monier!, tengo 21 años actualmente y resido en Zona norte.
+ ¡Hola mundo 🌍  soy Tobias  Monier!, tengo 21 años actualmente y vivo en Argentina (Bs.As).
 Me gusta El mundo de la tecnologia y actualmente me encuentro haciendo un curso de Java y Spring boot en la universidad de San Isidro Raúl Scalabrini Ortiz _(UNSO)_ , Tengo conocimiento en HTML 5, CSS 3 Y JavaScript _(Programacion FRONT-END)_ , Me interesa Especializarme en ciberseguridad y Programacion Back-End. <br>
 Actualmente me encuentro en busqueda laboral.<br>
 
