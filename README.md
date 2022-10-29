@@ -62,7 +62,7 @@ __♦🏆 Proyectos:__
 * __Proximamente Mas ...__
 
 
-**💻 Redes Socioales**
+**💻 Redes Socioales:**
 
 [LinkedIn](https://www.linkedin.com/in/tobiasmonier/)   
 
